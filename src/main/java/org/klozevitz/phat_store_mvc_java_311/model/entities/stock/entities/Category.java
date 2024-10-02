@@ -1,4 +1,4 @@
-package org.klozevitz.phat_store_mvc_java_311.model.stock.entities;
+package org.klozevitz.phat_store_mvc_java_311.model.entities.stock.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package org.klozevitz.phat_store_mvc_java_311.model.stock.dto;
+package org.klozevitz.phat_store_mvc_java_311.model.entities.stock.dto;
 
 import lombok.Builder;
 import lombok.Data;
